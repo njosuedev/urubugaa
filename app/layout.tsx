@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   description: "Urubugaa is your one-stop online marketplace to buy and sell products online. Join our affiliate program, sign up, or signin today and start shopping and selling easily and securely.",
   keywords: [
     "Urubugaa",
+    "ecommerce Rwanda",
     "buy online Rwanda",
     "sell online Rwanda",
     "online marketplace",
@@ -41,7 +42,7 @@ export const metadata: Metadata = {
     siteName: "Urubugaa",
     images: [
       {
-        url: "/urubugaa.png", 
+        url: "/urubugaa.png",
         width: 1200,
         height: 630,
         alt: "Urubugaa Online Marketplace",

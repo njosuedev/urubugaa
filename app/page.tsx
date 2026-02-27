@@ -54,7 +54,7 @@ export default function HomePage() {
       </header>
 
       {/* Hero */}
-      <section className="relative py-20 px-4">
+      <section className="relative py-3 px-4">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           <div>
             <motion.h1

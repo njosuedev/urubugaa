@@ -26,8 +26,12 @@ export default function HomePage() {
       {/* Navbar */}
       <header className="sticky top-0 z-50 bg-[#F5F5F5]/95 backdrop-blur-xl border-b border-black/10">
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-[#DA1736] rounded-xl" />
+          <div className="flex items-center gap-3">
+            <img
+              src="/urubugaa.png"
+              alt="Urubugaa Logo"
+              className="w-9 h-9 object-contain"
+            />
             <span className="font-bold text-lg tracking-tight">Urubugaa</span>
           </div>
 
@@ -194,7 +198,7 @@ export default function HomePage() {
         </div>
 
         <div className="text-center text-black/60 mt-12 text-xs">
-          &copy; {new Date().getFullYear()} Urubugaa. All rights reserved.
+          © {new Date().getFullYear()} Urubugaa. All rights reserved.
         </div>
       </footer>
     </main>

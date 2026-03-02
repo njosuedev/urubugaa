@@ -15,7 +15,7 @@ export default function HomePage() {
 
   const products = [
     { title: "Smartphone", img: "/products/electronics.jpg", price: "$250" },
-    { title: "Sneakers", img: "/products/fashion.jpeg", price: "$75" },
+    { title: "Sneakers", img: "/products/fashion.jpeg", price: "7000 Frw" },
     { title: "Blender", img: "/products/homegoods.png", price: "$60" },
     { title: "Football", img: "/products/sports.jpg", price: "$30" },
     { title: "Lipstick", img: "/products/lipstick.avif", price: "$15" },
@@ -146,7 +146,7 @@ export default function HomePage() {
                 <h3 className="font-medium mb-1">{product.title}</h3>
                 <p className="font-bold text-[#DA1736] mb-4">{product.price}</p>
                 <button className="w-full py-2 rounded-xl bg-[#DA1736] text-white text-sm font-semibold hover:bg-[#B0152E] transition">
-                  Buy
+                  Order Now
                 </button>
               </div>
             </div>

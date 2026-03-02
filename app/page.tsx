@@ -146,7 +146,7 @@ export default function HomePage() {
                 <h3 className="font-medium mb-1">{product.title}</h3>
                 <p className="font-bold text-[#DA1736] mb-4">{product.price}</p>
                 <button className="w-full py-2 rounded-xl bg-[#DA1736] text-white text-sm font-semibold hover:bg-[#B0152E] transition">
-                  Add to Cart
+                  Buy
                 </button>
               </div>
             </div>

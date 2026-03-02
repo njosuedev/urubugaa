@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Urubugaa | Online Shopping & Selling in Rwanda",
-  description: "Urubugaa is your one-stop online marketplace to buy and sell products online. Join our affiliate program, sign up, or signin today and start shopping and selling easily and securely.",
+  description: "Urubugaa is your one-stop online marketplace to buy and sell products online. Sign up, or signin today and start shopping and selling easily and securely.",
   keywords: [
     "Urubugaa",
     "ecommerce Rwanda",
